@@ -1,0 +1,4 @@
+# §3068 — the review watcher excludes commits reachable from this ref
+# (the fork's upstream); never an author filter. Written by `eugo-skills arm-review`.
+[review]
+upstream_ref = "upstream/master"
