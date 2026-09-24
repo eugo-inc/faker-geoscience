@@ -143,6 +143,8 @@ dmypy.json
 /.adversarial-review/watch/STOP
 /.adversarial-review/watch/STOP.worktree
 /.adversarial-review/watch/daemon.log
+/outputs/_state/logs/review-*.log
+/outputs/_state/review-turn-end/
 __pycache__/
 *.pyc
 *.bak
